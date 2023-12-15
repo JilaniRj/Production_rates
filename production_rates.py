@@ -21,4 +21,4 @@ initial_production_rate = 50 # Initial production rate in widgets per hour simul
 
 final_production_rate = simulate_production_rate(initial_production_rate, simulation_time_steps)
 
-print(f"\nSimulation completed. Final Production Rate = {final_production_rate:.2f} widgets per hour"
+print(f"\nSimulation completed. Final Production Rate = {final_production_rate:.2f} widgets per hour")
